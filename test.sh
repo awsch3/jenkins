@@ -2,4 +2,4 @@
 echo "This is first cicd pipeline"
 echo "This is testing"
 echo "this is third testing"
-echo "this is testing"
+
